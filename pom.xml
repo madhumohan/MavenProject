@@ -8,7 +8,6 @@
     <packaging>war</packaging>
     <name>AppFuse JSF Application</name>
     <url>http://www.mycompany.com</url>
-
     <prerequisites>
         <maven>2.0.4</maven>
     </prerequisites>

@@ -7,6 +7,7 @@
     <artifactId>mavenpro</artifactId>
     <packaging>war</packaging>
     <name>AppFuse JSF Application</name>
+    <version>1.0-SNAPSHOT</version>
     <url>http://www.mycompany.com</url>
     <prerequisites>
         <maven>2.0.4</maven>
